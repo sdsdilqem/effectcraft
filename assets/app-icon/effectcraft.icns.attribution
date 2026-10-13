@@ -1,8 +1,7 @@
 asset:        effectcraft.icns
-title:        EffectCraft macOS app icon
-author:       EffectCraft contributors (drawing by the project owner in ArtCraft)
-source:       original work
-license:      MIT OR Apache-2.0
-license-file: assets/app-icon/LICENSE.txt
+title:        Adobe After Effects app icon, macOS
+author:       Adobe Inc.
+source:       Adobe Inc. app icon (trademark of Adobe), supplied by the fork owner (Dilgam) for the ArtCraft launcher; macOS only, Windows/Linux icons unchanged
+license:      Not open source: Adobe trademark, used at the fork owner's decision (2026-10-13)
 added:        2026-10-02 by EffectCraft contributors (Claude agent, app icon)
-notes:        Rendered from effectcraft.svg on Apple's 824/1024 icon grid with resvg and iconutil by packaging/icons.sh.
+notes:        Rendered on Apple's 824/1024 icon grid; .icns written from PNG renders.
